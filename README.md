@@ -4,7 +4,6 @@
 ## 1. Description
 Adversarial detection based on Adjusted Cosine Similarity is a method to detect adversarial examples.
 
-![system](./framework.png)
 
 
 
