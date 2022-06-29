@@ -7,7 +7,7 @@ Adversarial detection based on Adjusted Cosine Similarity is a method to detect 
 
 
 
-### 1.1 Glance at the DEEPSEC Repo:
+### 1.1 Main dir:
 
 - `RawModels/` contains code used to train models and trained models will be attacked;
 - `CleanDatasets/` contains code used to randomly select clean samples to generate adversarial examples.
